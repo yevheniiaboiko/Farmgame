@@ -1,0 +1,40 @@
+body {
+    margin: 50px;
+    padding: 80px 245px;
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    border-radius: 50px;
+    background: #FFF;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 18px;
+    margin: 30px 0px;
+}
+
+a {
+    border-radius: 100px;
+    background: #FF6861;
+    color: #FFFFFF;
+    padding: 22px 70px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 700px;
+    display: block;
+    width: 216px;
+}
+
+div {
+    width: 1110;
+    height: 465;
+    margin-right: 180px;
+}
